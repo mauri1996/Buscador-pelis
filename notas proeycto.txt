@@ -1,0 +1,1 @@
+npm install bulma --save --save-exact -> para darle estilos al proyecto
