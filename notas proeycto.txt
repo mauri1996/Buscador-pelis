@@ -1,1 +1,7 @@
 npm install bulma --save --save-exact -> para darle estilos al proyecto
+npm install react-router-dom -> para enrutar
+npm install --global surge -> publicar la pagina
+
+
+build -> hace la pagina para publicar se revisa usando npm run
+npm run build >>>>
